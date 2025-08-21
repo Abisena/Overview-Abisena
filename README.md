@@ -54,11 +54,9 @@
 ---
 
 ## 📊 GitHub Stats
-> Ganti `<your-username>` di URL agar kartu tampil.
-
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abisena&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abisena&layout=compact&theme=tokyonight" />
 </p>
 
 ---
