@@ -64,8 +64,8 @@
 ---
 
 ## ✉️ Get in Touch
-- ✉️ abisena1123@gmail.com   
-- 💼 https://www.linkedin.com/in/<your-handle>  
+- ✉️ abisena1123@gmail.com
+- 💼 https://www.linkedin.com/in/muhamad-abisena-putrawan-504b92292/
 - 🧑‍💻 https://github.com/Abisena 
 
 > Always open for collaboration on backend, data, and API-heavy products.
